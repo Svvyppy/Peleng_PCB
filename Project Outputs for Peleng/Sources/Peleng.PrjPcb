@@ -3,7 +3,7 @@ Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
 ReleasesFolder=
-ChannelDesignatorFormatString=$Component_$RoomName
+ChannelDesignatorFormatString=$Component$ChannelAlpha
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
 ArchiveProject=0
@@ -267,41 +267,45 @@ ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Peleng\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Version
-Value=01
+Name=CheckedBy
+Value=
 
 [Parameter2]
-Name=Title2
-Value=15В в 300В
+Name=Decimal_Number_PCB
+Value=ГИДР.123456.002
 
 [Parameter3]
-Name=Title1
-Value=Преобразователь из
+Name=Decimal_Number_Shematic
+Value=ГИДР.123456.001
 
 [Parameter4]
-Name=Title
-Value=Плата обработки гидрофонов
+Name=DrawnBy
+Value=Булатов Н.
 
 [Parameter5]
 Name=Release_Date
 Value=31.05.25
 
 [Parameter6]
-Name=DrawnBy
-Value=Булатов Н.
+Name=Title
+Value=Плата обработки гидрофонов
 
 [Parameter7]
-Name=Decimal_Number_Shematic
-Value=ГИДР.123456.001
+Name=Title1
+Value=Преобразователь из
 
 [Parameter8]
-Name=Decimal_Number_PCB
-Value=ГИДР.123456.002
+Name=Title2
+Value=15В в 300В
 
 [Parameter9]
-Name=CheckedBy
-Value=
+Name=Version
+Value=01
 
 [Configuration1]
 Name=Sources
@@ -1215,7 +1219,7 @@ Type95=2
 Type96=2
 Type97=2
 Type98=0
-Type99=1
+Type99=0
 Type100=2
 Type101=0
 Type102=2
@@ -1243,7 +1247,7 @@ Type123=1
 Type124=1
 Type125=1
 Type126=1
-Type127=1
+Type127=0
 Type128=2
 Type129=2
 Type130=2
