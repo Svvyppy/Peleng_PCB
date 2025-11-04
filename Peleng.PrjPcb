@@ -272,40 +272,40 @@ DocumentPath=Project Outputs for Peleng\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=CheckedBy
-Value=
+Name=Version
+Value=01
 
 [Parameter2]
-Name=Decimal_Number_PCB
-Value=ГИДР.123456.002
+Name=Title2
+Value=15В в 300В
 
 [Parameter3]
-Name=Decimal_Number_Shematic
-Value=ГИДР.123456.001
+Name=Title1
+Value=Преобразователь из
 
 [Parameter4]
-Name=DrawnBy
-Value=Булатов Н.
+Name=Title
+Value=Плата обработки гидрофонов
 
 [Parameter5]
 Name=Release_Date
 Value=31.05.25
 
 [Parameter6]
-Name=Title
-Value=Плата обработки гидрофонов
+Name=DrawnBy
+Value=Булатов Н.
 
 [Parameter7]
-Name=Title1
-Value=Преобразователь из
+Name=Decimal_Number_Shematic
+Value=ГИДР.123456.001
 
 [Parameter8]
-Name=Title2
-Value=15В в 300В
+Name=Decimal_Number_PCB
+Value=ГИДР.123456.002
 
 [Parameter9]
-Name=Version
-Value=01
+Name=CheckedBy
+Value=
 
 [Configuration1]
 Name=Sources
@@ -351,6 +351,20 @@ DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=HydroJob.OutJob
 ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
+
+[Generic_SignalIntegritySimulation]
+SignalIntegrityInitialised=-1
+TrackImpedance=100
+TrackLength=20000000
+UseManhattan=-1
+UseSupplyNetsRules=-1
+SupplyNetsCount=0
+UseStimulusRules=-1
+StimKind=1
+StimLevel=0
+StimStartTime=1E-8
+StimStopTime=6E-8
+StimPeriodTime=1E-7
 
 [OutputGroup1]
 Name=Netlist Outputs
