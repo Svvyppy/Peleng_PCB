@@ -56,7 +56,7 @@ ReleaseFolderPath=[OutputPath]
 ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
-DocumentPath=Dependencies\HydroJob.OutJob
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD24\Library\Hydrolib\Templates\HydroJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -124,7 +124,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KHYJMNCC
 
 [Document5]
-DocumentPath=Dependencies\ST Microelectronics STM32 G4.SchLib
+DocumentPath=..\STMicroelectronics_STM32G4\ST Microelectronics STM32 G4.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -141,7 +141,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HVJAAGYX
 
 [Document6]
-DocumentPath=Dependencies\ST Microelectronics STM32 G4.PcbLib
+DocumentPath=..\STMicroelectronics_STM32G4\ST Microelectronics STM32 G4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -158,7 +158,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=Dependencies\CONV_SPBW06F-12.PcbLib
+DocumentPath=..\SPBW06F-12\CONV_SPBW06F-12.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -175,7 +175,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=Dependencies\SPBW06F-12.SchLib
+DocumentPath=..\SPBW06F-12\SPBW06F-12.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -351,6 +351,20 @@ DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=HydroJob.OutJob
 ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
+
+[Generic_SignalIntegritySimulation]
+SignalIntegrityInitialised=-1
+TrackImpedance=100
+TrackLength=20000000
+UseManhattan=-1
+UseSupplyNetsRules=-1
+SupplyNetsCount=0
+UseStimulusRules=-1
+StimKind=1
+StimLevel=0
+StimStartTime=1E-8
+StimStopTime=6E-8
+StimPeriodTime=1E-7
 
 [OutputGroup1]
 Name=Netlist Outputs

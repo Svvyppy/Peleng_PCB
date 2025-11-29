@@ -1,14 +1,12 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 9:57:02 On 13.10.2025
-
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [01] of BOM Document [Peleng.BomDoc]
-   Generated File[ÃÈÄÐ.123456.001-01.01 ÏÝ3.xlsx]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PCB1.PcbDoc]
+   Generated File[PCB1.TXT]
+   Generated File[PCB1.LDP]
+   Generated File[PCB1.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 9:57:06 On 13.10.2025
+Finished Output Generation At 15:16:44 On 21.11.2025

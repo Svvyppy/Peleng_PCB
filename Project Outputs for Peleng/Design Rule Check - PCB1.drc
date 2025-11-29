@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Никита\Desktop\Diplom\Pelemg_pcb\Peleng\PCB1.PcbDoc
-Date     : 21.11.2025
-Time     : 13:20:20
+Date     : 29.11.2025
+Time     : 14:23:40
 
 Processing Rule : Clearance Constraint (Gap=0.125mm) (All),(All)
 Rule Violations :0
@@ -64,19 +64,7 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (Disabled)(All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.15mm) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad R19A-2(55.25mm,8.375mm) on Signal top And Pad R21A-2(55.225mm,7.375mm) on Signal top [Top Solder] Mask Sliver [0.1mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad R19B-2(55.103mm,23.245mm) on Signal top And Pad R21B-2(55.078mm,22.245mm) on Signal top [Top Solder] Mask Sliver [0.1mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad R19C-2(55.05mm,38.075mm) on Signal top And Pad R21C-2(55.025mm,37.075mm) on Signal top [Top Solder] Mask Sliver [0.1mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad R19D-2(55.025mm,52.85mm) on Signal top And Pad R21D-2(55mm,51.85mm) on Signal top [Top Solder] Mask Sliver [0.1mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad R1A-1(19.65mm,11.975mm) on Signal top And Pad R2A-2(18.65mm,11.975mm) on Signal top [Top Solder] Mask Sliver [0.1mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.075mm < 0.15mm) Between Pad R1A-2(20.95mm,11.975mm) on Signal top And Via (21.825mm,12.025mm) from Signal top to Signal bottom [Top Solder] Mask Sliver [0.075mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad R1B-1(19.503mm,26.845mm) on Signal top And Pad R2B-2(18.503mm,26.845mm) on Signal top [Top Solder] Mask Sliver [0.1mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.075mm < 0.15mm) Between Pad R1B-2(20.803mm,26.845mm) on Signal top And Via (21.678mm,26.895mm) from Signal top to Signal bottom [Top Solder] Mask Sliver [0.075mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad R1C-1(19.45mm,41.675mm) on Signal top And Pad R2C-2(18.45mm,41.675mm) on Signal top [Top Solder] Mask Sliver [0.1mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.075mm < 0.15mm) Between Pad R1C-2(20.75mm,41.675mm) on Signal top And Via (21.625mm,41.725mm) from Signal top to Signal bottom [Top Solder] Mask Sliver [0.075mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.15mm) Between Pad R1D-1(19.425mm,56.45mm) on Signal top And Pad R2D-2(18.425mm,56.45mm) on Signal top [Top Solder] Mask Sliver [0.1mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.065mm < 0.15mm) Between Pad XP3-3(87.26mm,31.555mm) on Signal top And Via (85.4mm,31.6mm) from Signal top to Signal bottom [Top Solder] Mask Sliver [0.065mm]
-Rule Violations :12
+Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (Disabled)(IsPad),(All)
 Rule Violations :0
@@ -109,6 +97,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 12
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:06
+Time Elapsed        : 00:00:04
